@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "348546158162",
+    "project_id": "pagingandroid",
+    "storage_bucket": "pagingandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348546158162:android:9c7dfdca6e01602ee3198b",
+        "android_client_info": {
+          "package_name": "com.example.pagingandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348546158162-l8n3iq04jhd2mmu6qq33pqtr5eiacgqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcahpcWk8BegRZX_UvqFwPifsCHRQtJHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348546158162-l8n3iq04jhd2mmu6qq33pqtr5eiacgqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348546158162:android:1a9f45fdcd1b1a02e3198b",
+        "android_client_info": {
+          "package_name": "com.example.simplepaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348546158162-l8n3iq04jhd2mmu6qq33pqtr5eiacgqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcahpcWk8BegRZX_UvqFwPifsCHRQtJHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348546158162-l8n3iq04jhd2mmu6qq33pqtr5eiacgqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
